@@ -1,4 +1,4 @@
-StepView    [![](https://jitpack.io/v/meylingtjan/StepView.svg)](https://jitpack.io/#meylingtjan/StepView)
+StepView    [![](https://jitpack.io/v/siloamhospitals/StepView.svg)](https://jitpack.io/#siloamhospitals/StepView)
 ======================
 
 A simple animated step view for Android. It displays the name of the step and an icon as index of the step with the state of the step (completed or not completed).
@@ -7,7 +7,7 @@ Usage
 -----
 
 1. Add jcenter() to repositories block in your gradle file.
-2. Add `implementation 'com.meylingtjan.Stepview:Stepview:1.5.4'` to your dependencies.
+2. Add `implementation 'com.github.siloamhospitals:StepView:1.5.4'` to your dependencies.
 3. Add `StepView` into your layouts or view hierarchy.
 
 Supported animations:
